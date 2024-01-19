@@ -1,0 +1,26 @@
+{
+  "result": {
+    "data": [
+      {
+        "priority": 1,
+        "zone": "lorem ipsum",
+        "line": "FD43",
+        "capacity": 32,
+        "arrived": 2,
+        "parked": 3,
+        "free": 3,
+        "status": true
+      },
+      {
+        "priority": 1,
+        "zone": "lorem ipsum",
+        "line": "FD34",
+        "capacity": 23,
+        "arrived": 1,
+        "parked": 3,
+        "free": 3,
+        "status": false
+      }
+    ]
+  }
+}
